@@ -112,6 +112,7 @@
                 </div>
               </div>
             </div>
+            <div class="WhyUsCard">
               <div class="cardOuter">
                 <div class="logo">
                   <img src="../assets/ikon5.svg" />
@@ -151,6 +152,7 @@
                 </div>
                 <div class="cardDesc"><p>CryptoHex offer excellent customer support, with knowledgeable staff available to assist users with any questions or issues they may have.</p>
                 </div>
+            </div>
             </div>
         </div>
     </div>
