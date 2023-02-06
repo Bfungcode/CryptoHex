@@ -747,6 +747,7 @@ export default {
   justify-content: center;
   align-content: center;
   align-items: center;
+  font-size: 24px;
 }
 .HeroLogo2 {
   display: none;
@@ -757,6 +758,7 @@ export default {
   justify-content: center;
   text-align: center;
 }
+
 .Hero2Logo1 {
   display: none;
 }
@@ -770,6 +772,7 @@ export default {
   justify-content: center;
   align-content: center;
   align-items: center;
+  font-size: 42px;
 }
 
 .Hero2Bot {
