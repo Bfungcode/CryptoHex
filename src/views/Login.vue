@@ -115,6 +115,10 @@ export default {
   height: 100vh;
   background: var(--backgroundColor2);
 }
+
+.header {
+  margin-top: 2%;
+}
 #headerLogo {
   width: 261px;
   height: 107px;

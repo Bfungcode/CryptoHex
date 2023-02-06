@@ -133,6 +133,10 @@ export default {
   height: 100vh;
   background: var(--backgroundColor2);
 }
+
+.header {
+  margin-top: 2%;
+}
 #headerLogo {
   width: 261px;
   height: 107px;
@@ -224,7 +228,7 @@ export default {
     padding-left: 2%;
 }
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 500px) {
   .left {
     display: none;
   }
@@ -285,7 +289,7 @@ export default {
 }
 }
 
-@media only screen and (min-width: 480px) and (max-width:960px) {
+@media only screen and (min-width: 500px) and (max-width:960px) {
   
   .left {
     display: none;
