@@ -121,7 +121,6 @@ export default {
 <style scoped>
 * {
   box-sizing: border-box;
-  margin: 0;
   padding: 0;
   font-family: 'Quantico', sans-serif, serif;
 }
@@ -286,7 +285,7 @@ export default {
 }
 }
 
-@media only screen and (min-width: 480px) and (max-width:1200px) {
+@media only screen and (min-width: 480px) and (max-width:960px) {
   
   .left {
     display: none;
